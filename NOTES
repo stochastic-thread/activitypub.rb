@@ -1,12 +1,16 @@
 # TL;DR
 # ------------------------
-# ActivityPub, at first glance, is a realtime messaging 
-# protocol for Web messaging, providing a better set of abstractions
-# for handling realtime social interaction. It uses the actor model,
-# as well as familiar data formats like JSON-LD, to more meaningfully
-# represented Linked Data, which is great for semantic queries that 
-# map to real-world communication. I'd recommend taking a look and
-# learning the API.
+# ActivityPub is a social networking protocol that provides 
+# realtime messaging, object-action semantics, and a richer 
+# set of abstractions for Web-based messaging, with strong
+# user-to-user and user-to-resource semantics. It uses the 
+# actor model, as well as familiar data formats like JSON-LD, 
+# to more meaningfully represented Linked Data, which is great 
+# for semantic queries that map to real-world communication. 
+# I'd recommend taking a look and learning the API. My attempt
+# with this repo is to put together a bare-bones implementation
+# that serves as a useful example for others to follow, without
+# prematurely bringing out the Rails bazooka too soon. 
 # 
 # Philosophical background
 # ------------------------
@@ -54,12 +58,14 @@
 #
 #     https://www.w3.org/TR/activitypub/#bib-Social-Web-Protocols
 #
-# ActivityPub specifics:
+# ActivityPub details:
 #
-#    
+#    https://www.w3.org/TR/2018/REC-activitypub-20180123/
 #
-#
-#
+# Activity Streams 2.0 (W3C recommendation 23 May 2017)
+#   
+#   https://www.w3.org/TR/activitystreams-core/
+
 
 
 
