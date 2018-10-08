@@ -1,0 +1,23 @@
+# ActivityPub is a new Web standard intended to define a protocol for decentralized social 
+# networking based on Activity Streams 2.0. Its origins can be traced to Pump.io's implementation # of a generic realtime messaging & async interaction abstraction for developers to build systems
+# that interact with the Federated Web. In particular, Mastodon, a pre-eminent social network that# has made an effort to provide an alternative to the big blue Internet company's repeated 
+# encroachment on people's privacy, has implemented support for ActivityPub, and their efforts to # give people options outside of just the FANGS is a laudable expenditure of effort.
+#
+# Privacy and the ongoing collection of data and metadata about you, your interactions, your 
+# physical presence, gives giant companies more information on individuals than has ever been 
+# possible prior to our present era. In the future, I'd like to see the Web fulfill its promise 
+# of empowering users rather than turning them into a marketplace for attention, to be bought 
+# and sold by advertisers. While still the information-dense place it used to be, with more and 
+# more varied and interesting content being published or streamed every single minute of the day, # the centralization of power that network hubs are able to accumulate will only begin to lose 
+# momentum when we decide to build better alternatives that solve the same IRL problems that lead # to the flocking to these networks in the 1st place. Developers instead should try to take these # next-gen, realtime protocols to build decentralized applications that people want to use. Until # then, nothing will change. ActivityPub is just a networking protocol for realtime communication,# but it makes the process of creating alternative social networking applications much more 
+# accessible than before.
+
+# I think ActivityPub gives Web programmers a valuable new protocol that is very meaningful in
+# the age of Web 2.0 + beyond, where everything is realtime, and where people want to take back
+# control of their interactions, messages, and the data they produce, share, under the very 
+# reasonable expectation that it will be theirs forever.
+#
+# The detailed overview of the planned specification can be found here:
+#
+#     https://www.w3.org/TR/activitypub/#bib-Social-Web-Protocols
+#
